@@ -78,6 +78,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		E1922FCD29DC080400C2D9E7 /* Code */ = {
+			isa = PBXGroup;
+			children = (
+				E1B475C229DAF66E00C05E4A /* Application */,
+				E1B475BF29DAF62F00C05E4A /* Domain */,
+				E1B475C529DB753B00C05E4A /* Infrastructure */,
+			);
+			path = Code;
+			sourceTree = "<group>";
+		};
 		E1B4757E29DA12A400C05E4A = {
 			isa = PBXGroup;
 			children = (
@@ -110,9 +120,7 @@
 		E1B4759629DA12A400C05E4A /* DomainCodeKitTests */ = {
 			isa = PBXGroup;
 			children = (
-				E1B475C229DAF66E00C05E4A /* Application */,
-				E1B475BF29DAF62F00C05E4A /* Domain */,
-				E1B475C529DB753B00C05E4A /* Infrastructure */,
+				E1922FCD29DC080400C2D9E7 /* Code */,
 				E1B475B229DADBD300C05E4A /* UseCaseTests.swift */,
 			);
 			path = DomainCodeKitTests;
