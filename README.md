@@ -6,8 +6,8 @@ I actively maintain this toolkit. :rocket:
 You can contact me at any time andireuter86@gmail.com.
 
 # Roadmap
-:stopwatch: I investigate into usage of domain-driven design in ui.
-:blue_book: I work on a custom blog to share practical tips and skills
+- I investigate into usage of domain-driven design in ui.
+- I work on a custom blog to share practical tips and skills
 
 # Copyright
 Copyright © 2023 Andreas Reuter. All rights reserved.
